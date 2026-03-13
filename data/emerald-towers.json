@@ -25,13 +25,13 @@
     "U17": { "name": "17", "status": "available", "price": 11100000, "priceLabel": "₹ 1.11Cr", "area": "185 sqyd", "facing": "North", "type": "Plot", "floor": "-" },
     "U18": { "name": "18", "status": "available", "price": 10800000, "priceLabel": "₹ 1.08Cr", "area": "180 sqyd", "facing": "North", "type": "Plot", "floor": "-" },
 
-    "U19": { "name": "19", "status": "available", "price": 9000000, "priceLabel": "₹ 90L", "area": "150 sqyd", "facing": "West", "type": "Plot", "floor": "-" },
-    "U20": { "name": "20", "status": "available", "price": 9000000, "priceLabel": "₹ 90L", "area": "150 sqyd", "facing": "West", "type": "Plot", "floor": "-" },
-    "U21": { "name": "21", "status": "available", "price": 9000000, "priceLabel": "₹ 90L", "area": "150 sqyd", "facing": "West", "type": "Plot", "floor": "-" },
+    "U19": { "name": "19", "status": "available", "price": 9000000, "priceLabel": "₹ 90L", "area": "150 sqyd", "facing": "North", "type": "Plot", "floor": "-" },
+    "U20": { "name": "20", "status": "available", "price": 9000000, "priceLabel": "₹ 90L", "area": "150 sqyd", "facing": "North", "type": "Plot", "floor": "-" },
+    "U21": { "name": "21", "status": "available", "price": 9000000, "priceLabel": "₹ 90L", "area": "150 sqyd", "facing": "North", "type": "Plot", "floor": "-" },
 
-    "U22": { "name": "22", "status": "available", "price": 9300000, "priceLabel": "₹ 93L", "area": "155 sqyd", "facing": "North", "type": "Plot", "floor": "-" },
-    "U23": { "name": "23", "status": "available", "price": 9300000, "priceLabel": "₹ 93L", "area": "155 sqyd", "facing": "North", "type": "Plot", "floor": "-" },
-    "U24": { "name": "24", "status": "available", "price": 9300000, "priceLabel": "₹ 93L", "area": "155 sqyd", "facing": "North", "type": "Plot", "floor": "-" },
+    "U22": { "name": "22", "status": "available", "price": 9300000, "priceLabel": "₹ 93L", "area": "155 sqyd", "facing": "South", "type": "Plot", "floor": "-" },
+    "U23": { "name": "23", "status": "available", "price": 9300000, "priceLabel": "₹ 93L", "area": "155 sqyd", "facing": "South", "type": "Plot", "floor": "-" },
+    "U24": { "name": "24", "status": "available", "price": 9300000, "priceLabel": "₹ 93L", "area": "155 sqyd", "facing": "South", "type": "Plot", "floor": "-" },
 
     "U25": { "name": "25", "status": "blocked", "price": 9900000, "priceLabel": "₹ 99L", "area": "165 sqyd", "facing": "South", "type": "Plot", "floor": "-" },
     "U26": { "name": "26", "status": "available", "price": 10200000, "priceLabel": "₹ 1.02Cr", "area": "170 sqyd", "facing": "South", "type": "Plot", "floor": "-" },
@@ -42,7 +42,7 @@
     "U31": { "name": "31", "status": "sold", "price": 9600000, "priceLabel": "₹ 96L", "area": "160 sqyd", "facing": "South", "type": "Plot", "floor": "-" },
     "U32": { "name": "32", "status": "available", "price": 9300000, "priceLabel": "₹ 93L", "area": "155 sqyd", "facing": "South", "type": "Plot", "floor": "-" },
     "U33": { "name": "33", "status": "available", "price": 8700000, "priceLabel": "₹ 87L", "area": "145 sqyd", "facing": "South", "type": "Plot", "floor": "-" },
-    "U34": { "name": "34", "status": "blocked", "price": 8100000, "priceLabel": "₹ 81L", "area": "135 sqyd", "facing": "South", "type": "Plot", "floor": "-" },
+    "U34": { "name": "34", "status": "blocked", "price": 8100000, "priceLabel": "₹ 81L", "area": "135 sqyd", "facing": "North", "type": "Plot", "floor": "-" },
 
     "U35": { "name": "35", "status": "available", "price": 6900000, "priceLabel": "₹ 69L", "area": "115 sqyd", "facing": "North", "type": "Plot", "floor": "-" },
     "U36": { "name": "36", "status": "available", "price": 7500000, "priceLabel": "₹ 75L", "area": "125 sqyd", "facing": "North", "type": "Plot", "floor": "-" },
