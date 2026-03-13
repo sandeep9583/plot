@@ -1,0 +1,14 @@
+<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="viewport">
+    <image x="0" y="0" width="800" height="450" href="svg/Image.png" preserveAspectRatio="xMidYMid slice" pointer-events="none" />
+
+    <path class="unit" data-unit-id="E1" d="M120 180L180 160L200 240L140 260Z" stroke="black"/>
+    <path class="unit" data-unit-id="E2" d="M185 158L260 135L285 215L210 238Z" stroke="black"/>
+    <path class="unit" data-unit-id="E3" d="M265 133L350 108L380 188L295 213Z" stroke="black"/>
+    <path class="unit" data-unit-id="E4" d="M355 106L430 82L465 162L390 186Z" stroke="black"/>
+    <path class="unit" data-unit-id="E5" d="M480 150L560 125L590 210L510 235Z" stroke="black"/>
+    <path class="unit" data-unit-id="E6" d="M565 123L630 102L655 182L590 203Z" stroke="black"/>
+    <path class="unit" data-unit-id="E7" d="M120 290L200 268L225 348L145 370Z" stroke="black"/>
+    <path class="unit" data-unit-id="E8" d="M205 266L290 242L320 322L235 346Z" stroke="black"/>
+  </g>
+</svg>

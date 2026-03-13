@@ -1,0 +1,15 @@
+{
+  "id": "sunrise-heights",
+  "name": "Sunrise Heights",
+  "location": "Gachibowli, Hyderabad",
+  "developer": "Prestige Realty",
+  "svgFile": "svg/sunrise-heights.svg",
+  "units": {
+    "U1": { "name": "101", "status": "available", "price": 7200000, "priceLabel": "₹ 72L", "area": "820 sqft", "facing": "East",  "type": "2BHK", "floor": "1st Floor" },
+    "U2": { "name": "102", "status": "available", "price": 6800000, "priceLabel": "₹ 68L", "area": "780 sqft", "facing": "North", "type": "2BHK", "floor": "1st Floor" },
+    "U3": { "name": "103", "status": "blocked",   "price": 7500000, "priceLabel": "₹ 75L", "area": "840 sqft", "facing": "West",  "type": "2BHK", "floor": "1st Floor" },
+    "U4": { "name": "104", "status": "available", "price": 8000000, "priceLabel": "₹ 80L", "area": "910 sqft", "facing": "South", "type": "3BHK", "floor": "2nd Floor" },
+    "U5": { "name": "105", "status": "sold",      "price": 6200000, "priceLabel": "₹ 62L", "area": "720 sqft", "facing": "East",  "type": "1BHK", "floor": "2nd Floor" },
+    "U6": { "name": "106", "status": "available", "price": 7800000, "priceLabel": "₹ 78L", "area": "890 sqft", "facing": "North", "type": "3BHK", "floor": "2nd Floor" }
+  }
+}

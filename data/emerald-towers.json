@@ -1,0 +1,17 @@
+{
+  "id": "emerald-towers",
+  "name": "Emerald Towers",
+  "location": "HITEC City, Hyderabad",
+  "developer": "Emerald Developers",
+  "svgFile": "svg/emerald-towers.svg",
+  "units": {
+    "E1": { "name": "A1", "status": "available", "price": 9500000,  "priceLabel": "₹ 95L",    "area": "1050 sqft", "facing": "East",  "type": "3BHK", "floor": "2nd Floor" },
+    "E2": { "name": "A2", "status": "available", "price": 8800000,  "priceLabel": "₹ 88L",    "area": "980 sqft",  "facing": "North", "type": "2BHK", "floor": "2nd Floor" },
+    "E3": { "name": "A3", "status": "sold",      "price": 10200000, "priceLabel": "₹ 1.02Cr", "area": "1120 sqft", "facing": "West",  "type": "3BHK", "floor": "2nd Floor" },
+    "E4": { "name": "A4", "status": "blocked",   "price": 7500000,  "priceLabel": "₹ 75L",    "area": "820 sqft",  "facing": "South", "type": "2BHK", "floor": "2nd Floor" },
+    "E5": { "name": "B1", "status": "available", "price": 11500000, "priceLabel": "₹ 1.15Cr", "area": "1280 sqft", "facing": "East",  "type": "4BHK", "floor": "3rd Floor" },
+    "E6": { "name": "B2", "status": "available", "price": 6900000,  "priceLabel": "₹ 69L",    "area": "740 sqft",  "facing": "North", "type": "1BHK", "floor": "3rd Floor" },
+    "E7": { "name": "B3", "status": "sold",      "price": 8200000,  "priceLabel": "₹ 82L",    "area": "900 sqft",  "facing": "West",  "type": "2BHK", "floor": "3rd Floor" },
+    "E8": { "name": "B4", "status": "available", "price": 9800000,  "priceLabel": "₹ 98L",    "area": "1060 sqft", "facing": "South", "type": "3BHK", "floor": "3rd Floor" }
+  }
+}

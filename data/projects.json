@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": "sunrise-heights",
+      "name": "Sunrise Heights",
+      "location": "Gachibowli, Hyderabad",
+      "dataFile": "data/sunrise-heights.json"
+    },
+    {
+      "id": "emerald-towers",
+      "name": "Emerald Towers",
+      "location": "HITEC City, Hyderabad",
+      "dataFile": "data/emerald-towers.json"
+    }
+  ]
+}
