@@ -1,6 +1,6 @@
 <svg width="679" height="382" viewBox="0 0 679 382" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g id="viewport">
-    <image x="0" y="0" width="679" height="382" href="svg/Image.png" preserveAspectRatio="xMidYMid slice" pointer-events="none" />
+    <image x="0" y="0" width="679" height="382" href="svg/sunrise.png" preserveAspectRatio="xMidYMid slice" pointer-events="none" />
 
     <path class="unit" data-unit-id="U1" d="M234 215.5L241.5 139C235.333 136.167 223.5 130.2 217.5 129C211.5 127.8 205.719 132.164 204.5 134.5C198.5 146 189.5 172.7 187.5 173.5C185.5 174.3 185.167 183.667 186 188.5C193.333 196.667 214.4 215.3 220 218.5C225.6 221.7 230.667 218.167 234 215.5Z" stroke="black"/>
     <path class="unit" data-unit-id="U2" d="M286 198L235 214.5L242 139L267 132L286 198Z" stroke="black"/>

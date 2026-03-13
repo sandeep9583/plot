@@ -1,14 +1,56 @@
-<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1919" height="1075" viewBox="0 0 1919 1075" xmlns="http://www.w3.org/2000/svg">
   <g id="viewport">
-    <image x="0" y="0" width="800" height="450" href="svg/Image.png" preserveAspectRatio="xMidYMid slice" pointer-events="none" />
+    <image
+      x="0"
+      y="0"
+      width="1919"
+      height="1075"
+      href="svg/emerald.png"
+      preserveAspectRatio="xMidYMid slice"
+      pointer-events="none"
+    />
 
-    <path class="unit" data-unit-id="E1" d="M120 180L180 160L200 240L140 260Z" stroke="black"/>
-    <path class="unit" data-unit-id="E2" d="M185 158L260 135L285 215L210 238Z" stroke="black"/>
-    <path class="unit" data-unit-id="E3" d="M265 133L350 108L380 188L295 213Z" stroke="black"/>
-    <path class="unit" data-unit-id="E4" d="M355 106L430 82L465 162L390 186Z" stroke="black"/>
-    <path class="unit" data-unit-id="E5" d="M480 150L560 125L590 210L510 235Z" stroke="black"/>
-    <path class="unit" data-unit-id="E6" d="M565 123L630 102L655 182L590 203Z" stroke="black"/>
-    <path class="unit" data-unit-id="E7" d="M120 290L200 268L225 348L145 370Z" stroke="black"/>
-    <path class="unit" data-unit-id="E8" d="M205 266L290 242L320 322L235 346Z" stroke="black"/>
+    <path class="unit" data-unit-id="U1" d="M1492 514.5V446L1605 455.5L1627 527L1492 514.5Z" stroke="black" />
+    <path class="unit" data-unit-id="U2" d="M1371.5 500.5L1378 436.5L1485 445V511L1371.5 500.5Z" stroke="black" />
+    <path class="unit" data-unit-id="U3" d="M1257 488.5L1268 426.5L1368.5 436.5V501.5L1257 488.5Z" stroke="black" />
+    <path class="unit" data-unit-id="U4" d="M1143 478L1157.5 415L1258.5 425.5L1249.5 487.5L1143 478Z" stroke="black" />
+    <path class="unit" data-unit-id="U5" d="M1029.5 467.5L1051 404L1151.5 415L1134 478L1029.5 467.5Z" stroke="black" />
+    <path class="unit" data-unit-id="U6" d="M919.5 456.5L945 396.5L1045.5 405.5L1024 469.5L919.5 456.5Z" stroke="black" />
+    <path class="unit" data-unit-id="U7" d="M809 445L838 387L937.5 396.5L914 456.5L809 445Z" stroke="black" />
+    <path class="unit" data-unit-id="U8" d="M703.5 434L738.5 375.5L831.5 387L805 447L703.5 434Z" stroke="black" />
+    <path class="unit" data-unit-id="U9" d="M598.5 425.5L636 368L731 374.5L697 436.5L598.5 425.5Z" stroke="black" />
+    <path class="unit" data-unit-id="U10" d="M492 413L576 360.5L628.5 367.5L591 424.5L492 413Z" stroke="black" />
+
+    <path class="unit" data-unit-id="U11" d="M316 529L421 460L486.5 467L429.5 546L316 529Z" stroke="black" />
+    <path class="unit" data-unit-id="U12" d="M442.5 543.5L492.5 468.5L594 479L547.5 556.5L442.5 543.5Z" stroke="black" />
+    <path class="unit" data-unit-id="U13" d="M554 555.5L603.5 476L704.5 488.5L661.5 568.5L554 555.5Z" stroke="black" />
+    <path class="unit" data-unit-id="U14" d="M669 568.5L711 490.5L817.5 499L781 581.5L669 568.5Z" stroke="black" />
+    <path class="unit" data-unit-id="U15" d="M788 581.5L824 503L930.5 511.5L900.5 594L788 581.5Z" stroke="black" />
+    <path class="unit" data-unit-id="U16" d="M905.5 595L937 512.5L1045.5 521.5L1023 608.5L905.5 595Z" stroke="black" />
+    <path class="unit" data-unit-id="U17" d="M1029 607.5L1053 526L1164.5 536.5L1147 621.5L1029 607.5Z" stroke="black" />
+    <path class="unit" data-unit-id="U18" d="M1153 621L1169.5 537.5L1282 547L1274.5 635L1153 621Z" stroke="black" />
+
+    <path class="unit" data-unit-id="U19" d="M1381.5 645.5L1386.5 559L1503 569L1506.5 659.5L1381.5 645.5Z" stroke="black" />
+    <path class="unit" data-unit-id="U20" d="M1510 661V571L1586.5 578L1595 669L1510 661Z" stroke="black" />
+    <path class="unit" data-unit-id="U21" d="M1602 672L1592.5 579L1685.5 587.5L1716.5 682.5L1602 672Z" stroke="black" />
+    <path class="unit" data-unit-id="U22" d="M1614 782L1603.5 677L1721.5 688.5L1760.5 796L1614 782Z" stroke="black" />
+    <path class="unit" data-unit-id="U23" d="M1519 769L1513 669L1598 677L1608 778.5L1519 769Z" stroke="black" />
+    <path class="unit" data-unit-id="U24" d="M1377.5 751.5L1382 652L1507 667.5L1512 770L1377.5 751.5Z" stroke="black" />
+
+    <path class="unit" data-unit-id="U25" d="M1132 726.5L1152 628L1275 641L1262.5 740.5L1132 726.5Z" stroke="black" />
+    <path class="unit" data-unit-id="U26" d="M1000 709L1026 615.5L1148 627.5L1128.5 723.5L1000 709Z" stroke="black" />
+    <path class="unit" data-unit-id="U27" d="M869 693.5L905 601L1021.5 614L996 708L869 693.5Z" stroke="black" />
+    <path class="unit" data-unit-id="U28" d="M743.5 679L784 586L898.5 600L864.5 693L743.5 679Z" stroke="black" />
+    <path class="unit" data-unit-id="U29" d="M616.5 665L665.5 575.5L778.5 586L736 679L616.5 665Z" stroke="black" />
+    <path class="unit" data-unit-id="U30" d="M492 653.5L546.5 564L656 575L607.5 666.5L492 653.5Z" stroke="black" />
+    <path class="unit" data-unit-id="U31" d="M374 636.5L435 549L544 561L489 650.5L374 636.5Z" stroke="black" />
+    <path class="unit" data-unit-id="U32" d="M296 628L358.5 540L427 549L367 637L296 628Z" stroke="black" />
+    <path class="unit" data-unit-id="U33" d="M183.5 614L302 534.5L353 541L288.5 628L183.5 614Z" stroke="black" />
+
+    <path class="unit" data-unit-id="U34" d="M154.5 721L185 687.5L312.5 701.5L284.5 749L154.5 721Z" stroke="black" />
+    <path class="unit" data-unit-id="U35" d="M293.5 753L329 698L467 718.5L434 782.5L293.5 753Z" stroke="black" />
+    <path class="unit" data-unit-id="U36" d="M442.5 780L475.5 718L638 741.5L608.5 806L442.5 780Z" stroke="black" />
+    <path class="unit" data-unit-id="U37" d="M614 808L646.5 740L812.5 762L782.5 837L614 808Z" stroke="black" />
+    <path class="unit" data-unit-id="U38" d="M790 836L821.5 762L1054 794L909.5 889.5L790 836Z" stroke="black" />
   </g>
 </svg>
